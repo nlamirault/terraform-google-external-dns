@@ -1,6 +1,6 @@
 # External DNS into Google Cloud Platform
 
-![Tfsec](https://github.com/nlamirault/terraform-google-External DNS/workflows/Tfsec/badge.svg)
+![Tfsec](https://github.com/nlamirault/terraform-google-external-dns/workflows/Tfsec/badge.svg)
 
 ## Terraform versions
 
