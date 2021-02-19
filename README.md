@@ -18,7 +18,7 @@ These types of resources are supported:
 module "external_dns" {
   source  = "nlamirault/external-dns/google"
   version = "1.0.0"
-  
+
   project = var.project
 
   namespace       = var.namespace
