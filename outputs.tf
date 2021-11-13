@@ -14,5 +14,5 @@
 
 output "service_account" {
   description = "Service Account for External DNS"
-  value       = google_service_account.external_dns.email
+  value       = module.service_account.email
 }
